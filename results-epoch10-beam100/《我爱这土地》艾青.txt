@@ -1,0 +1,23 @@
+zh_rhyme: [[('地', 2), ('了', 6)]]
+en_rhyme: [(('gone', 6), ('storm', 2), 2, 25.325301204819276), (('gone', 6), ('storms', 2), 2, 31.825)]
+rhyme_pos: {2: 'storm$2', 6: 'gone$2'}
+#0 假如我是一只鸟 (7)
+if i were a bird (5)
+#1 我也应该用嘶哑的喉咙歌唱 (12)
+i should also sing with a hoarse throat (9)
+#2 这被暴风雨所打击的土地 (11)
+this was hit by the storm ** (6)
+#3 这永远汹涌着我们的悲愤的河流 (14)
+this will always surge our grieving rivers (11)
+#4 这无止息地吹刮着的激怒的风 (13)
+this enraged wind without interest blowing (10)
+#5 和那来自林间的无比温柔的黎明 (14)
+and the soft gentle dawn from the forest (10)
+#6 然后我死了 (5)
+then i was gone ** (4)
+#7 连羽毛也腐烂在土地里面 (11)
+even feathers rot in the land (8)
+#8 为什么我的眼里常含泪水 (11)
+why does my eyes contain tears (7)
+#9 因为我对这土地爱得深沉 (11)
+because i love this land deeply (8)

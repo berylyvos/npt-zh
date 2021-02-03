@@ -1,0 +1,23 @@
+zh_rhyme: [[('来', 0), ('彩', 1)], [('娘', 2), ('漾', 3)]]
+en_rhyme: [(('sun', 1), ('come', 0), 2, 27.775)]
+rhyme_pos: {0: 'come$2', 1: 'sun$2', 2: None, 3: None}
+#0 轻轻的我走了，正如我轻轻的来 (13)
+gently i left just as i gently come ** (10)
+#1 我轻轻的招手，作别西天的云彩 (13)
+i gently waved away from the clouds of the sun ** (12)
+#2 那河畔的金柳，是夕阳中的新娘 (13)
+the golden willow on the river the bride in the sunset (15)
+#3 波光里的艳影，在我的心头荡漾 (13)
+the shadow in the light ripples in my heart (11)
+#4 软泥上的青荇，油油的在水底招摇 (14)
+the green stroke on the soft sludge the oil at the bottom of the water (17)
+#5 在康桥的柔波里，我甘心做一条水草 (15)
+in the soft waves of cambridge i m willing to make a water plant (17)
+#6 那榆荫下的一潭，不是清泉，是天上虹 (15)
+the pool under the shadow not the clear spring the rainbow in the sky (17)
+#7 揉碎在浮藻间，沉淀着彩虹似的梦 (14)
+crushing in the algae precipitating the rainbow dream (15)
+#8 悄悄的我走了，正如我悄悄的来 (13)
+i left quietly as i came quietly (11)
+#9 我挥一挥衣袖，不带走一片云彩 (13)
+i waved my sleeves and didn t take a cloud (9)

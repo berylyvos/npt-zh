@@ -1,0 +1,11 @@
+zh_rhyme: [[('天', 0), ('怜', 2)]]
+en_rhyme: [(('one', 2), ('up', 0), 2, 14.422368421052635), (('lonely', 2), ('sky', 0), 3, 18.340357000398885), (('weirdo', 2), ('sky', 0), 3, 18.98600917431193), (('poor', 2), ('there', 0), 3, 19.74166666666667), (('poor', 2), ('you', 0), 2, 19.950000000000003), (('down', 0), ('one', 2), 3, 24.675000000000004), (('one', 2), ('uptown', 0), 3, 27.525000000000002), (('weirdo', 2), ('you', 0), 3, 28.050000000000004)]
+rhyme_pos: {0: 'up$2', 2: 'one$2'}
+#0 两个黄蝴蝶，双双飞上天 (10)
+two yellow butterflies both flying up ** (10)
+#1 不知为什么，一个忽飞还 (10)
+for some reason a sudden flight returns (10)
+#2 剩下那一个，孤单怪可怜 (10)
+the one left the lonely weird one ** (8)
+#3 也无心上天，天上太孤单 (10)
+there is no heart that the sky is too lonely (11)

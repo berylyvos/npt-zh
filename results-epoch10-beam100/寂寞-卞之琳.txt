@@ -1,0 +1,19 @@
+zh_rhyme: [[('时', 6), ('止', 7)]]
+en_rhyme: [(('yet', 7), ('dead', 6), 2, 11.88989898989899), (('rest', 7), ('dead', 6), 2, 14.462121212121211), (('dead', 6), ('edged', 7), 2, 15.070454545454545), (('end', 7), ('dead', 6), 2, 15.38957219251337), (('ends', 7), ('dead', 6), 2, 17.295454545454547), (('died', 6), ('expired', 7), 2, 17.96), (('ended', 7), ('dead', 6), 3, 18.443181818181817), (('rested', 7), ('dead', 6), 3, 19.78818181818182), (('existed', 7), ('dead', 6), 3, 22.868181818181817)]
+rhyme_pos: {6: 'dead$2', 7: 'yet$2'}
+#0 乡下小孩子怕寂寞 (8)
+the country children are afraid of loneliness (12)
+#1 枕头边养一只蝈蝈 (8)
+pillows are raised by a spirit (8)
+#2 长大了在城里操劳 (8)
+grow up to work in the city (8)
+#3 他买了一个夜明表 (8)
+he bought a nocturnal watch (7)
+#4 小时候他常常羡艳 (8)
+when he was young he used to be awesome (10)
+#5 墓草做蝈蝈的家园 (8)
+the grave was the home of the sandwich (9)
+#6 如今他死了三小时 (8)
+now he died three hours dead ** (7)
+#7 夜明表还不曾休止 (8)
+the night watch is not ended yet ** (8)
