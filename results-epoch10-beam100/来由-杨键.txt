@@ -1,0 +1,19 @@
+zh_rhyme: [[('世', 1), ('你', 5)]]
+en_rhyme: [(('death', 1), ('yourself', 5), 2, 26.03333333333334), (('again', 5), ('death', 1), 2, 27.400000000000006), (('you', 5), ('day', 1), 3, 38.444736842105264), (('again', 5), ('man', 1), 3, 39.25000000000001), (('day', 1), ('me', 5), 3, 44.412000000000006)]
+rhyme_pos: {1: 'death$2', 5: 'yourself$2'}
+#0 仿佛 是 我们 的 缺点 (8)
+as if it were our faults (7)
+#1 造就 整个 人世 (6)
+to make the whole death ** (5)
+#2 造就 我们 的 床 房间 树 哭 和 笑 (12)
+create our beds rooms trees cries and smiles (10)
+#3 我们 干枯 的 心 造就 风景 (10)
+our dry hearts make the scenery (9)
+#4 一触即发 的 欲望 (7)
+an immediate desire (8)
+#5 造就 了 我 和 你 (6)
+made me and yourself ** (5)
+#6 在 长久 的 相对 里 生活 (9)
+living in a long relative life (9)
+#7 我们 得到 了 尖锐 的 矛 和 抵抗 的 盾 (14)
+we got a sharp spear and a shield of resistance (12)

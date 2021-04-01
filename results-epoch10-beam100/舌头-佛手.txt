@@ -1,0 +1,19 @@
+zh_rhyme: [[('体', 0), ('激', 5)]]
+en_rhyme: []
+rhyme_pos: {0: None, 5: None}
+#0 你 不可否认 是 一种 柔软 的 物体 (13)
+you cannot deny it a soft object (10)
+#1 通常 人们 看不到 你 是 哪种 形状 (13)
+people usually can t see which shape you are (13)
+#2 你 受 温度 和 压力 影响 比较 明显 (13)
+you re obviously affected by temperature and stress (15)
+#3 而且 也 容易 因为 内分泌 失调 而 出现 溃疡 (17)
+and it is easy to appear because of endocrine disorders (17)
+#4 大多数 时候 你 受制于 大脑 选择 味道 (15)
+most of the time you re subjected to the brain selection (15)
+#5 偶尔 受 神经 制约 也 会 抗拒 过分 的 刺激 (16)
+occasionally nerve constraints resist excessive stimulation (17)
+#6 非常 时候 你 会 忍受 牙齿 咬到 自己 的 混乱 (17)
+at a time you ll endure your teeth and bite your mess (12)
+#7 痛苦 使 你 伸出 外面 孤独 的 生长 叫 涎 的 液体 (18)
+the pain makes you stretch out the lonely growth of liquid called saliva (17)

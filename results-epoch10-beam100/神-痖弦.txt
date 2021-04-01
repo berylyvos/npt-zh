@@ -1,0 +1,9 @@
+zh_rhyme: [[('的', 0), ('了', 2)]]
+en_rhyme: [(('minister', 2), ('away', 0), 3, 47.85000000000001), (('occupied', 2), ('solitude', 0), 3, 48.525000000000006), (('occupied', 2), ('god', 0), 3, 50.575)]
+rhyme_pos: {0: 'away$3', 2: 'minister$3'}
+#0 神 孤零零 的 (5)
+god is alone and away * (7)
+#1 坐在 教堂 的 橄榄 窗上 (9)
+sit on the olive window of the church (10)
+#2 因为 祭坛 被 牧师 们 占去 了 (11)
+because the altar is occupied by the minister * (14)

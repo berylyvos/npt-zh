@@ -1,0 +1,19 @@
+zh_rhyme: [[('行', 4), ('饼', 6), ('景', 7)]]
+en_rhyme: [(('biscuits', 6), ('sufficient', 4), 2, 16.75714285714286), (('view', 7), ('through', 4), 1, 17.573999999999998), (('cakes', 6), ('away', 4), 2, 24.39761904761905), (('cake', 6), ('away', 4), 2, 30.733333333333334), (('cream', 6), ('scene', 7), 2, 38.7), (('away', 4), ('view', 7), 3, 39.485), (('pretzel', 6), ('full', 4), 3, 40.861363636363635), (('cake', 6), ('walk', 4), 3, 45.675000000000004), (('view', 7), ('go', 4), 3, 47.46), (('away', 4), ('pie', 6), 3, 47.525000000000006), (('scenery', 7), ('go', 4), 3, 48.525000000000006), (('view', 7), ('pie', 6), 3, 51.06000000000001), (('pie', 6), ('through', 4), 3, 51.97500000000001), (('pie', 6), ('go', 4), 3, 55.5), (('scene', 7), ('on', 4), 3, 58.125000000000014)]
+rhyme_pos: {4: 'sufficient$2', 6: 'biscuits$2', 7: None}
+#0 当 人们 在 那些 被 歌唱 的 棕榈 下 漫步 (15)
+when people walk under the singing palms (10)
+#1 珍珠 的 草皮 上 初放 着 番红花 (12)
+the pearl turf was first liberated with crocus (12)
+#2 一只 白嘴 鸦 掠过 灰蒙 的 天空 (12)
+a white mouth crowed over the gray sky (9)
+#3 我 在 奥里 弗 大街 的 一家 餐馆 用餐 (14)
+i dined at a restaurant on oliver street (12)
+#4 一个 穿 法兰绒 裤子 的 人曳 足而行 (14)
+a man who was wearing flannel pants was sufficient ** (13)
+#5 持续 的 细雨 溅湿 了 他 的 无带 低 跟 鞋 (15)
+the continuing drizzle splashed his bandless shoes (10)
+#6 我 吃 着 热 小 松饼 和 圆 脆饼 (11)
+i had hot muffins and round biscuits ** (9)
+#7 从 一扇 窗子 里 看到 了 海景 (11)
+i saw the ocean view from a window (10)

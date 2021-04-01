@@ -1,0 +1,17 @@
+zh_rhyme: [[('弃', 4), ('字', 6)]]
+en_rhyme: [(('away', 4), ('name', 6), 2, 26.301937984496128), (('behind', 4), ('shines', 6), 2, 32.94285714285714)]
+rhyme_pos: {4: 'away$2', 6: 'name$2'}
+#0 假若 把 你 的 诺言 刻 在 石榴树 上 (13)
+if you put your promise on a pomegranate tree (13)
+#1 枝桠 上 悬垂 着 的 就 显得 更 沉重 了 (14)
+what is hanging on the branches looks heavier (12)
+#2 我 仰卧 在 树下 星子 仰卧 在 叶丛 中 (14)
+i lie under the trees and the stars lying in the leaves (14)
+#3 每 一株 树 属于 我 我 在 每 一株 树中 (14)
+every tree belongs to me i am in every tree (15)
+#4 它们 存在 爱便 不会 把 我 遗弃 (12)
+they exist love doesn t leave me away ** (9)
+#5 哦 石榴 已 成熟 这 动人 的 炸裂 (12)
+oh pomegranate is ripe this moving breakdown (12)
+#6 每 一颗 都 闪烁着 光 闪烁着 你 的 名字 (15)
+every one shines with light and shines your name ** (11)

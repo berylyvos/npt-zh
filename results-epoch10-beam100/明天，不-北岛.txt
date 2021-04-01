@@ -1,0 +1,23 @@
+zh_rhyme: [[('见', 1), ('边', 6)], [('子', 2), ('起', 3), ('事', 8)]]
+en_rhyme: [(('shade', 2), ('way', 3), 2, 23.450000000000003), (('tales', 8), ('way', 3), 2, 24.183333333333337), (('tomorrow', 6), ('you', 1), 3, 25.1125), (('street', 3), ('night', 8), 3, 25.407303370786522), (('is', 8), ('shadows', 2), 3, 26.775000000000002), (('shade', 2), ('tales', 8), 2, 27.66666666666667), (('though', 2), ('road', 3), 2, 30.88125), (('shadow', 2), ('way', 3), 3, 31.342500000000005), (('me', 1), ('tomorrow', 6), 3, 31.725), (('anyway', 1), ('tomorrow', 6), 3, 32.025000000000006), (('tomorrow', 6), ('her', 1), 3, 34.725), (('meet', 1), ('night', 6), 3, 36.126809210526325), (('tomorrow', 6), ('see', 1), 3, 36.675000000000004), (('shade', 2), ('road', 3), 3, 36.971875), (('met', 1), ('night', 6), 3, 41.84868421052632), (('though', 2), ('way', 3), 3, 44.525000000000006), (('it', 1), ('night', 6), 3, 48.62368421052632)]
+rhyme_pos: {1: 'you$3', 6: 'tomorrow$3', 2: 'shade$2', 3: 'way$2', 8: None}
+#0 这 不是 告别 (5)
+this is not a farewell (6)
+#1 因为 我们 并 没有 相见 (9)
+because we didn t meet you * (6)
+#2 尽管 影子 和 影子 (7)
+although the shadow and the shade ** (8)
+#3 曾 在 路上 叠 在 一起 (8)
+stacked together on the way ** (7)
+#4 象 一个 孤零零 的 逃犯 (9)
+like a solitary fugitive (9)
+#5 明天 不 (3)
+tomorrow no (4)
+#6 明天 不 在 夜 的 那边 (8)
+it not the night side tomorrow * (8)
+#7 谁 期待 谁 就是 罪人 (8)
+whoever expects it is a sinner (10)
+#8 而 夜里 发生 的 故事 (8)
+and the story of the night (7)
+#9 就让 它 在 夜里 结束 吧 (9)
+just let it end at night (6)

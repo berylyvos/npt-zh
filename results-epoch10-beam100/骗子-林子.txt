@@ -1,0 +1,15 @@
+zh_rhyme: [[('码', 1), ('大', 4)], [('利', 2), ('止', 5)]]
+en_rhyme: []
+rhyme_pos: {1: None, 4: None, 2: None, 5: None}
+#0 我 在 自行车 上 东张西望 (10)
+i was looking around on my bike (9)
+#1 破解 了 那 扇门 的 密码 (9)
+cracked the code of the door (6)
+#2 紫红 蓝黄 的 光是 锋利 (9)
+the light of purple red blue is sharp (9)
+#3 的 牙齿 骨骼 和 血管 相互 生长 (12)
+teeth bones and vessels grow each other (9)
+#4 伪装 的 笑 很大 (6)
+the smile of disguise is great (7)
+#5 哭声 起伏 不止 (6)
+the crying was more than that (7)

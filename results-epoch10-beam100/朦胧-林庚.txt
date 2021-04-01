@@ -1,0 +1,21 @@
+zh_rhyme: [[('明', 2), ('影', 3), ('蜓', 7)]]
+en_rhyme: [(('spring', 2), ('things', 3), 2, 24.792307692307695), (('spring', 2), ('it', 3), 2, 26.792857142857144), (('spring', 2), ('this', 3), 2, 28.32), (('time', 3), ('fly', 7), 2, 28.44), (('is', 2), ('things', 3), 2, 29.542307692307695), (('is', 2), ('it', 3), 2, 31.542857142857144), (('spring', 2), ('everything', 3), 3, 32.44375000000001), (('is', 2), ('this', 3), 2, 33.07), (('anything', 3), ('spring', 2), 3, 37.050000000000004), (('darkness', 7), ('this', 3), 3, 44.03), (('has', 7), ('is', 2), 3, 57.675000000000004)]
+rhyme_pos: {2: 'spring$2', 3: 'things$2', 7: None}
+#0 常 听见 有 小孩 的 脚步声 向 我 跑 来 (14)
+i often heard a child footsteps running towards me (13)
+#1 中止 于 一霎 突然 的 寂寞 里 (11)
+stop in a sudden loneliness (8)
+#2 春天 如水 的 幽明 (7)
+the gloom of the water in spring ** (8)
+#3 遂 有 一切 之 倒影 (7)
+there is a reflection of all things ** (9)
+#4 薄暮 朦胧 处 (5)
+the dusk of the twilight (6)
+#5 两排 绿树 下 的 路上 (8)
+on the way under two green trees (8)
+#6 是 有 个 不 可知 的 希望 在 飞 吗 (12)
+is there an unknowable hope flying (10)
+#7 是 的 有 一只 黑色 的 蜻蜓 (10)
+yes there is a black dragonfly (5)
+#8 飞入 冥冥 的 草 中 了 (8)
+flying into the grass of the day (9)

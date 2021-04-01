@@ -1,0 +1,19 @@
+zh_rhyme: []
+en_rhyme: []
+rhyme_pos: {}
+#0 你 在 干什么 (5)
+what are you doing (5)
+#1 我 在 守卫 疯人院 (7)
+i m in the guard of the nuthouse (7)
+#2 你 在 干什么 (5)
+what are you doing (5)
+#3 我 在 守卫 疯人院 (7)
+i m in the guard of the nuthouse (7)
+#4 你 在 干什么 (5)
+what are you doing (5)
+#5 我 在 守卫 疯人院 (7)
+i m in the guard of the nuthouse (7)
+#6 我 写诗 拔草 焚尸 (7)
+i write poems pull grass burn bodies (9)
+#7 数星星 化装 流泪 (7)
+stars costumes tears (4)

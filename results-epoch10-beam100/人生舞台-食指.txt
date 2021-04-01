@@ -1,0 +1,19 @@
+zh_rhyme: [[('角', 0), ('笑', 1)], [('倒', 3), ('老', 5), ('好', 7)]]
+en_rhyme: [(('acclaimed', 7), ('age', 5), 2, 13.414285714285715), (('acclaiming', 7), ('aging', 5), 2, 17.485), (('scroll', 3), ('old', 5), 2, 18.611538461538462), (('life', 1), ('eye', 0), 2, 19.910999999999998), (('well', 7), ('scroll', 3), 3, 20.35), (('appropriate', 7), ('out', 3), 3, 22.875), (('scroll', 3), ('senile', 5), 3, 23.400000000000002), (('impatience', 5), ('acclamation', 7), 2, 23.799999999999997), (('well', 7), ('senile', 5), 3, 23.950000000000003), (('scorch', 3), ('applause', 7), 2, 26.775), (('life', 1), ('eyes', 0), 2, 27.211), (('well', 7), ('stretch', 3), 2, 27.21666666666667), (('cheers', 7), ('it', 3), 2, 29.509999999999998), (('man', 5), ('scratch', 3), 2, 30.018181818181823), (('appropriate', 7), ('it', 3), 3, 34.05), (('applaud', 7), ('scorch', 3), 2, 34.6625), (('cheered', 7), ('it', 3), 2, 36.0), (('it', 7), ('out', 3), 3, 36.2), (('time', 7), ('life', 3), 2, 36.82857142857143), (('it', 3), ('cheer', 7), 2, 37.400000000000006), (('day', 7), ('age', 5), 2, 40.80971428571429), (('applause', 7), ('screws', 3), 3, 42.300000000000004), (('year', 7), ('it', 3), 2, 47.27586206896551), (('community', 7), ('impatiently', 5), 2, 49.660000000000004), (('it', 3), ('out', 7), 3, 50.85000000000001), (('poverty', 3), ('day', 7), 3, 56.00475), (('screw', 3), ('day', 7), 3, 63.540000000000006), (('world', 7), ('old', 5), 3, 68.84587912087912), (('community', 7), ('poverty', 3), 3, 72.01875000000001), (('screw', 3), ('company', 7), 3, 73.804), (('community', 7), ('screw', 3), 3, 79.554)]
+rhyme_pos: {0: 'eye$2', 1: 'life$2', 3: None, 5: 'age$2', 7: 'acclaimed$2'}
+#0 愁苦 过早地 把 皱纹 深刻 在 眼角 (13)
+sadly put the wrinkles deep in the corner of the eye ** (14)
+#1 可 嘴边 还是 那丝 对 人生 的 嘲笑 (13)
+but the mouth is still the laugh of the life ** (10)
+#2 好心 的 朋友 用 纸牌 为 我 占卜 (12)
+a kind friend uses cards to divine me (10)
+#3 命运 是 一生 穷酸 终生 潦倒 (11)
+fate is a lifetime of poverty a lifetime screw (13)
+#4 墙角 那 奶奶 用过 的 柱 棍 (10)
+the column that grandma used in the corner (11)
+#5 已 不耐烦 地 等 着 我 的 衰老 (11)
+i have waited impatiently for my age ** (11)
+#6 该 谢幕 了 几下 疏落 的 掌声 (11)
+this is the curtain a few falling applause (11)
+#7 象 以往 无人 喝彩 叫好 (9)
+like ever no one is acclaimed ** (8)

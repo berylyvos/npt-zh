@@ -1,0 +1,23 @@
+zh_rhyme: [[('起', 0), ('里', 5), ('西', 6)]]
+en_rhyme: [(('there', 6), ('itself', 0), 2, 21.333333333333336), (('side', 6), ('eyes', 5), 2, 22.4), (('raised', 0), ('place', 6), 2, 24.6), (('west', 6), ('itself', 0), 2, 24.78787878787879), (('there', 6), ('oas', 0), 2, 25.233333333333334), (('west', 6), ('oas', 0), 2, 28.687878787878788), (('side', 6), ('eye', 5), 2, 29.200000000000003), (('eyes', 5), ('sight', 6), 2, 30.299999999999997), (('day', 6), ('raised', 0), 2, 31.0), (('eye', 5), ('sight', 6), 2, 37.1), (('oas', 0), ('place', 6), 3, 38.85), (('house', 6), ('oas', 0), 3, 40.349999999999994), (('chamber', 0), ('day', 6), 3, 43.050000000000004), (('it', 0), ('sight', 6), 3, 50.5), (('eye', 5), ('day', 6), 3, 51.300000000000004), (('si', 6), ('eye', 5), 3, 53.25), (('me', 6), ('eye', 5), 3, 56.25)]
+rhyme_pos: {0: 'itself$2', 5: None, 6: 'there$2'}
+#0 绿洲 举起 (4)
+the oasis raised itself ** (7)
+#1 椰子树 高高的 风扇 (8)
+the coconut tree high the fan (8)
+#2 吹出去 (3)
+blow out of here (4)
+#3 一排 骆驼 背着 的 波浪 (9)
+a row of camels carrying waves (9)
+#4 暮色 坐在 (4)
+dusk sits in the dusk (5)
+#5 骆驼 橄榄形 的 大 眼睛 里 (10)
+in the big eyes of the camel olive (10)
+#6 向西 (2)
+heading west over there ** (6)
+#7 巅簸 了 数千公里 (7)
+bumped thousands of kilometers (8)
+#8 旅人 的 心 也 蜿蜒 游 去 (9)
+the heart of the traveler winds away (10)
+#9 远远 的 一条 金蛇 (7)
+far away a golden snake (7)

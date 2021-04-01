@@ -1,0 +1,13 @@
+zh_rhyme: []
+en_rhyme: []
+rhyme_pos: {}
+#0 同样 的 骄傲 同样 的 捉弄 (10)
+the same pride the same trick (6)
+#1 这些 自由 的 少女 (7)
+these free young girls (4)
+#2 这些 将要 长成 皇后 的 少女 (11)
+these girls who will grow into the queen (9)
+#3 会 为了 爱情 到 天涯海角 (10)
+for love to the ends of the earth (8)
+#4 会 跟随 坏人 永不变心 (9)
+will follow the bad people never change (10)

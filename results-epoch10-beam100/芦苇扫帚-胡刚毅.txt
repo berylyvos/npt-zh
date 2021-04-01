@@ -1,0 +1,13 @@
+zh_rhyme: [[('割', 1), ('澈', 3)]]
+en_rhyme: [(('cut', 1), ('bright', 3), 3, 36.525000000000006)]
+rhyme_pos: {1: 'cut$3', 3: 'bright$3'}
+#0 一株株 雨丝 的 芦苇 (8)
+a plant of rain reeds (5)
+#1 摇曳 在 风中 被 闪电 收割 (10)
+swaying in the wind by lightning cut * (9)
+#2 一把 把 扫帚 打扫 天地 (9)
+a broom to clean up the heavens (8)
+#3 秋 的 天空 霎时 澄净 明澈 (10)
+the sky of autumn is clean and bright * (9)
+#4 一碧如洗 如镜 (6)
+one thing is like a mirror (7)

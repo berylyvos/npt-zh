@@ -1,0 +1,19 @@
+zh_rhyme: [[('地', 0), ('息', 1), ('凄', 4), ('弃', 5), ('里', 7)]]
+en_rhyme: [(('earth', 0), ('world', 5), 2, 18.00104166666667), (('perch', 1), ('earth', 5), 2, 19.074074074074076), (('earth', 0), ('perch', 1), 2, 19.766666666666673), (('perch', 1), ('world', 5), 2, 20.634375000000006), (('field', 0), ('grief', 4), 2, 21.03333333333333), (('rest', 1), ('himself', 5), 2, 26.535714285714285), (('land', 0), ('lands', 7), 2, 29.159411764705883), (('ground', 0), ('land', 7), 3, 30.755517241379312), (('field', 0), ('world', 5), 3, 34.8515625), (('struggle', 4), ('soil', 0), 3, 38.353571428571435), (('abandoned', 5), ('land', 7), 3, 38.44885057471265), (('abandoned', 5), ('ground', 0), 3, 39.67333333333334), (('ground', 7), ('land', 0), 3, 39.794117647058826), (('abandoned', 5), ('land', 0), 3, 39.92745098039216), (('painful', 4), ('soil', 0), 3, 40.625), (('abandoned', 5), ('ground', 7), 3, 47.23333333333334), (('painful', 4), ('soil', 7), 3, 51.0)]
+rhyme_pos: {0: 'earth$2', 1: None, 4: 'painful$3', 5: 'world$2', 7: 'soil$3'}
+#0 诗人 的 心 好比 是 一片 阴湿 的 土地 (14)
+the heart of the poet is like a damp earth ** (11)
+#1 在 命运 的 巨石 下 有着 爱 的 毒蛇 栖息 (15)
+under the boulder of fate there is a poisonous snake rest (15)
+#2 他 歌吟 着 轻松 心头 的 苦楚 (11)
+he was singing relaxing misery (10)
+#3 毒蛇 在 吟 声里 吮取 着 他 的 血液 (13)
+the viper sucking his blood in the chant (10)
+#4 在 生 之 挣扎 里 更 痛感 着 生 之 悲凄 (14)
+in the struggle of life life is more painful * (11)
+#5 他 踯躅 于 人间 却永味 人间 摒弃 (13)
+he stumbled among the world but never abandoned the world ** (15)
+#6 唉 何时 啊 能 爬 出 那 血红 的 毒蛇 (13)
+alas when you can crawl out of that red snake (11)
+#7 从 命运 的 巨石 下 从 阴湿 的 土地 里 (14)
+from under the boulder of fate from the damp soil * (12)

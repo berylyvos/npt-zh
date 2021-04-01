@@ -1,0 +1,23 @@
+zh_rhyme: [[('势', 0), ('里', 8), ('子', 9)], [('娃', 2), ('花', 5)]]
+en_rhyme: [(('street', 5), ('bright', 2), 3, 25.68846153846154)]
+rhyme_pos: {0: None, 8: None, 9: None, 2: 'bright$3', 5: 'street$3'}
+#0 女人 的 姿势 (5)
+the posture of women (6)
+#1 从 汽车 中 闪过 (6)
+flashing from the car (5)
+#2 还有 明亮 的 洋娃娃 (8)
+and bright dolls with bright * (5)
+#3 站 着 的 铁罐 (5)
+the iron can standing (6)
+#4 圣诞 音乐 (4)
+christmas music (4)
+#5 街上 飘着 的 雪花 (7)
+the floating snowflakes in the street * (8)
+#6 摇晃 铃铛 的 小狗 (7)
+a puppy shaking the bell (7)
+#7 大门 还 没有 关紧 (7)
+the door is not closed yet (6)
+#8 灯光 在 房子 里 (6)
+the light is in the house (6)
+#9 手上 将握 着 一根 叉子 (9)
+holding a fork in his hand (7)

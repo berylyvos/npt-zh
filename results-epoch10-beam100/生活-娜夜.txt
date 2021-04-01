@@ -1,0 +1,19 @@
+zh_rhyme: [[('上', 2), ('伤', 7)]]
+en_rhyme: [(('sad', 7), ('bags', 2), 2, 27.865000000000002), (('sorrow', 7), ('away', 2), 3, 36.0554347826087)]
+rhyme_pos: {2: 'bags$2', 7: 'sad$2'}
+#0 我 珍爱 过 你 (5)
+i ve cherished you (5)
+#1 像 小时候 珍爱 一颗 黑糖 球 (11)
+like a black sugar ball when you were little (11)
+#2 舔 一口 马上 用糖 纸包 上 (10)
+lick it immediately with sugar paper bags ** (13)
+#3 再 舔 一口 (4)
+and lick another bite (6)
+#4 舔 的 越来越 慢 (6)
+it getting slower and slower (8)
+#5 包 的 越来越快 (6)
+the bag becomes faster and faster (9)
+#6 现在 只 剩下 我 和 糖纸 了 (10)
+now it just me and the candy paper (10)
+#7 我 必须 忍住 忧伤 (7)
+i must hold back sad ** (5)

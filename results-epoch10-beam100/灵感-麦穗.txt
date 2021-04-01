@@ -1,0 +1,23 @@
+zh_rhyme: [[('窝', 0), ('落', 4)]]
+en_rhyme: []
+rhyme_pos: {0: None, 4: None}
+#0 灵感 之鸟 飞进 了 心窝 (9)
+the bird of inspiration flew into heart (11)
+#1 久久 回绕 似 久别重逢 (9)
+for a long time it seems like a long time (10)
+#2 他 的 来临 使 我 沮丧 和 焦虑 (11)
+his coming made me depressed and anxious (10)
+#3 因为 我 的 心田 荒如 沙漠 (10)
+because my heart is like a desert (9)
+#4 使 美丽 的 鸟儿 无法 栖落 (10)
+to make beautiful birds unable to fall (11)
+#5 当 我 发觉 鸟儿 已 离去 时 (10)
+when i found out that birds were gone (8)
+#6 才 后悔 没有 早些 种植 绿树 (11)
+regret not planting the green tree earlier (11)
+#7 徒使 千万只 灵感 之鸟 (9)
+thousands of millions of inspiration birds (11)
+#8 飞临 我 这 荒芜 的 心田 (9)
+fly to my desolate heart (7)
+#9 也 难唱出 一曲 悦耳 的 歌 (10)
+also difficult to sing a pleasant song (11)

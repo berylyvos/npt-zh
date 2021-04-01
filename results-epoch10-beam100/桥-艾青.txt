@@ -1,0 +1,23 @@
+zh_rhyme: []
+en_rhyme: []
+rhyme_pos: {}
+#0 当 土地 与 土地 被 水 分割 了 的 时候 (14)
+when the land and the land are divided by water (13)
+#1 当 道路 与 道路 被 水 截断 了 的 时候 (14)
+when roads and roads are intercepted by water (12)
+#2 智慧 的 人类 伫立 在 水边 (10)
+the wise human beings stand by the water (11)
+#3 于是 产生 了 桥 (6)
+so there was a bridge (5)
+#4 苦于 跋涉 的 人类 (7)
+suffering from trekking humans (8)
+#5 应该 感谢 桥 啊 (6)
+i should thank the bridge (5)
+#6 桥 是 土地 与 土地 的 连系 (10)
+the bridge is a connection between land and land (12)
+#7 桥 是 河流 与 道路 的 爱情 (10)
+the bridge is the love of rivers and roads (10)
+#8 桥 是 船只 与 车辆 点头 致敬 的 驿站 (14)
+the bridge is a station where vessels nodded with vehicles (15)
+#9 桥 是 乘船 与 步行者 挥手告别 的 地方 (15)
+the bridge is a place where the boat and the walker waved goodbye (15)

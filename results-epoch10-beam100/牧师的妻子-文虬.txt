@@ -1,0 +1,19 @@
+zh_rhyme: [[('个', 1), ('了', 4)], [('现', 2), ('见', 5)]]
+en_rhyme: [(('dawn', 1), ('gone', 4), 1, 15.898181818181818), (('day', 1), ('away', 4), 1, 17.124), (('end', 1), ('left', 4), 2, 24.46), (('already', 4), ('sky', 1), 3, 24.70673076923077), (('anyway', 4), ('sky', 1), 3, 25.119230769230768), (('sky', 1), ('go', 4), 3, 32.644230769230774), (('away', 4), ('sky', 1), 3, 32.67923076923077), (('now', 4), ('sky', 1), 3, 32.869230769230775), (('gone', 4), ('sun', 1), 3, 34.195454545454545), (('anyway', 4), ('day', 1), 3, 35.25), (('heaven', 1), ('gone', 4), 3, 35.36545454545455), (('day', 1), ('go', 4), 3, 42.775000000000006), (('now', 4), ('day', 1), 3, 43.00000000000001), (('one', 1), ('gone', 4), 3, 44.45545454545455)]
+rhyme_pos: {1: 'dawn$1', 4: 'gone$1', 2: None, 5: None}
+#0 牧师 的 妻子 逝去 已 久 (9)
+the minister wife has long passed away (10)
+#1 她 是 天底下 最 可爱 的 一个 (11)
+she the most lovable one in the dawn *** (10)
+#2 常 在 我 的 心中 浮现 (8)
+i often emerge in my heart (8)
+#3 我 经常 问 牧师 (6)
+i often ask the priest (6)
+#4 她 的 灵魂 是不是 已经 走 了 (11)
+is her soul already gone *** (7)
+#5 牧师 的 家 从 窗户 可以 望见 (11)
+the home of the priest can see from the window (11)
+#6 每天 用红 手帕 擦 着 她 的 像框 (12)
+wiping her frame with red handkerchiefs every day (13)
+#7 （ 1991 ） (6)
+i don t know what it looks like (8)
