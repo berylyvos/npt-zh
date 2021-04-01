@@ -1,0 +1,15 @@
+zh_rhyme: [[('痕', 0), ('针', 4)], [('盐', 3), ('线', 5)]]
+en_rhyme: [(('bruised', 0), ('moon', 4), 2, 16.253061224489798), (('light', 5), ('it', 3), 3, 20.400000000000002), (('piercing', 5), ('in', 3), 2, 20.6), (('wounds', 0), ('moon', 4), 2, 21.003061224489798), (('bruise', 0), ('moon', 4), 2, 23.1530612244898), (('line', 5), ('in', 3), 3, 30.738461538461536)]
+rhyme_pos: {0: 'bruised$2', 4: 'moon$2', 3: 'it$3', 5: 'light$3'}
+#0 被 江河 撕裂 的 大地 伤痕 (10)
+tearing the earth by the river bruised ** (9)
+#1 烙进 岁月 深处 一座 桥 的 (10)
+break into the depths of the years a bridge (10)
+#2 彩虹 能 愈合 记忆 的 缝隙 (10)
+rainbow can heal the cracks of memory (10)
+#3 一片片 的 白帆 不是 撒 上去 的 盐 (13)
+a piece of white sail is not the salt that sprinkles it * (13)
+#4 日夜 穿梭 来往 借 太阳 和 月亮 的 顶针 (15)
+shuttle day and night to the top of the sun and the moon ** (14)
+#5 穿针引线 (4)
+through the needle light * (5)

@@ -1,0 +1,21 @@
+zh_rhyme: [[('铭', 6), ('情', 8)]]
+en_rhyme: [(('mottos', 6), ('graze', 8), 3, 31.293902439024393), (('mottos', 6), ('cows', 8), 3, 34.993902439024396)]
+rhyme_pos: {6: 'mottos$3', 8: 'graze$3'}
+#0 好久 吃 不到 青草 了 (8)
+it been a long time to eat the grass (9)
+#1 能 不 饿 吗 (4)
+can you not be hungry (6)
+#2 栅栏 打开 没有 久待 的 青草 (11)
+the fence opened the grass not long waited (10)
+#3 能 不 愤怒 吗 (5)
+can you not be angry (6)
+#4 斗牛士 新生 的 力量 急剧 膨胀 (12)
+the force of the freshman matador swells sharply (12)
+#5 这是 第一次 被 全部 动用 (10)
+this is the first time i ve been fully used (11)
+#6 呐喊 与 呐喊 都 是 安静 的 座右铭 (13)
+shouting and screaming are quiet mottos * (10)
+#7 我 害怕 自己 被 踩 成 满地 的 青草 (13)
+i was afraid of being stepped on the grass full of grass (14)
+#8 因此 无需 体贴 牛 吃 草 的 柔情 (12)
+so there is no need for thoughtful cows to graze * (11)

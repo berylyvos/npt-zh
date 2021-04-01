@@ -1,0 +1,17 @@
+zh_rhyme: [[('子', 0), ('势', 5), ('止', 6)]]
+en_rhyme: [(('pond', 0), ('not', 6), 2, 25.153846153846153), (('pond', 0), ('stopped', 6), 2, 27.853846153846156), (('glass', 0), ('banned', 6), 2, 30.67727272727273), (('on', 6), ('pond', 0), 2, 30.753846153846155), (('pond', 0), ('barred', 6), 2, 31.653846153846157), (('mirror', 0), ('no', 6), 3, 35.37352941176471), (('pond', 0), ('banned', 6), 3, 39.046678321678314)]
+rhyme_pos: {0: 'pond$2', 5: None, 6: 'not$2'}
+#0 一条 猪 把 一口 池塘 当作 一面镜子 (14)
+a pig treats a mirror as a pond ** (9)
+#1 反复 追问 自己 的 性别 与 性格 (12)
+repeatedly ask your own gender and character (13)
+#2 必须 坚持 十天 十夜 (8)
+must stick to ten days and ten nights (8)
+#3 突然 有 雷鸣声 (6)
+suddenly there was a thunder (8)
+#4 蜻蜓 赤裸 着 双脚 (7)
+dragonfly is naked with his feet (6)
+#5 这个 弧线 具备 一定 的 优势 (11)
+this arc has a certain advantage (9)
+#6 舌头 被 禁止 (5)
+the tongue is banned not ** (5)

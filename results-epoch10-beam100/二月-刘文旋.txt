@@ -1,0 +1,15 @@
+zh_rhyme: []
+en_rhyme: []
+rhyme_pos: {}
+#0 二月 固执 的 孩子 的 梦想 (10)
+february dream of a stubborn child (10)
+#1 迷住 了 眼睛 我们 将 往 何处 去 (12)
+glamorous eyes where are we going (9)
+#2 看 地上 正长 出 尘土 (8)
+look the ground is growing dust (7)
+#3 石头 被 抛向 蓝色 天空 (9)
+the stone was thrown into the blue sky (9)
+#4 它 落 在 命运 的 练习簿 上 (10)
+it fell on the exercise book of fate (10)
+#5 而 我们 则 低下头 象 北欧 的 乐声 (13)
+and we were low like the music of northern europe (13)

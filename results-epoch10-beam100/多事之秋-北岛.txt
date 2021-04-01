@@ -1,0 +1,23 @@
+zh_rhyme: [[('本', 1), ('人', 4)], [('明', 3), ('请', 9)]]
+en_rhyme: [(('sky', 3), ('die', 9), 1, 14.975897435897433), (('invitation', 9), ('civilization', 3), 1, 15.84), (('specimens', 1), ('abstinence', 4), 2, 19.9), (('specimen', 1), ('abstinence', 4), 2, 26.799999999999997), (('day', 3), ('die', 9), 3, 35.85641025641026), (('specimen', 1), ('snowman', 4), 3, 42.449999999999996)]
+rhyme_pos: {1: 'specimens$2', 4: 'abstinence$2', 3: 'sky$1', 9: 'die$1'}
+#0 深深 陷入 黑暗 的 蜡烛 (9)
+deep into the dark candle (7)
+#1 在 知识 的 页岩 中 寻找 标本 (11)
+in the shale of knowledge finding specimens ** (11)
+#2 鱼贯 的 文字 交尾 后 (8)
+after the fish text material (9)
+#3 和 文明 一起 沉睡 到 天明 (10)
+sleeping with civilization until the sky *** (12)
+#4 惯性 的 轮子 禁欲 的 雪人 (10)
+inertial wheels snowman of abstinence ** (10)
+#5 大地 棋盘 上 的 残局 (8)
+the mess on the chess of the earth (8)
+#6 已 搁置 了 多年 (6)
+has been shelved for many years (7)
+#7 一个 逃避 规则 的 男孩 (9)
+a boy who escapes the rules (7)
+#8 越过 界河 去 送信 (7)
+across the river to deliver letters (11)
+#9 那 是 诗 或 死亡 的 邀请 (9)
+that a poem or an invitation to die *** (12)

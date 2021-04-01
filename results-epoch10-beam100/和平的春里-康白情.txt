@@ -1,0 +1,19 @@
+zh_rhyme: []
+en_rhyme: []
+rhyme_pos: {}
+#0 遍 江北 底 野色 都 绿 了 (9)
+all over the bottom of jiangbei is green (9)
+#1 柳 也 绿 了 (4)
+liu is green too (4)
+#2 麦子 也 绿 了 (5)
+the wheat is green too (5)
+#3 水 也 绿 了 (4)
+the water is green too (6)
+#4 鸭 尾巴 也 绿 了 (6)
+the duck tail is green too (6)
+#5 茅屋 盖 上 也 绿 了 (7)
+and green on the hut cover (7)
+#6 穷人 底 饿 眼儿 也 绿 了 (9)
+the poor are green with hungry eyes (8)
+#7 和平 的 春里 远燃 着 几 野火 (11)
+there are several wildfires in the spring of peace (12)

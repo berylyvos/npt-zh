@@ -1,0 +1,19 @@
+zh_rhyme: [[('了', 0), ('的', 7)], [('须', 5), ('去', 6)]]
+en_rhyme: [(('it', 6), ('winds', 5), 2, 18.139318885448915), (('while', 0), ('thy', 7), 2, 24.466666666666665), (('long', 0), ('your', 7), 2, 24.996376811594203), (('thy', 7), ('time', 0), 2, 25.195238095238096), (('face', 6), ('plains', 5), 2, 26.080000000000002), (('walk', 0), ('your', 7), 2, 31.599999999999998), (('wander', 0), ('shadow', 7), 3, 31.625000000000004), (('vagrancy', 0), ('shadow', 7), 3, 34.4), (('yours', 7), ('years', 0), 3, 34.7135294117647), (('you', 0), ('shadow', 7), 3, 40.1), (('hour', 0), ('shadow', 7), 3, 40.15), (('wander', 0), ('thy', 7), 3, 40.975), (('longer', 0), ('shadow', 7), 3, 41.3), (('me', 0), ('shadow', 7), 3, 42.2), (('wildfire', 5), ('go', 6), 3, 42.402142857142856), (('vagrancy', 0), ('thy', 7), 3, 43.75), (('shadow', 7), ('way', 0), 3, 44.0), (('ago', 0), ('shadow', 7), 3, 44.45), (('now', 0), ('shadow', 7), 3, 45.64999999999999), (('wildfire', 5), ('you', 6), 3, 47.60714285714286), (('area', 5), ('go', 6), 3, 48.045), (('you', 7), ('me', 0), 3, 49.45), (('you', 0), ('thy', 7), 3, 49.45), (('hour', 0), ('thy', 7), 3, 49.5), (('longer', 0), ('thy', 7), 3, 50.65), (('you', 7), ('way', 0), 3, 51.25000000000001), (('me', 0), ('thy', 7), 3, 51.55), (('you', 7), ('ago', 0), 3, 51.7), (('you', 7), ('now', 0), 3, 52.9), (('area', 5), ('you', 6), 3, 53.25), (('thy', 7), ('way', 0), 3, 53.349999999999994), (('ago', 0), ('thy', 7), 3, 53.8), (('now', 0), ('thy', 7), 3, 55.0)]
+rhyme_pos: {0: 'while$2', 7: 'thy$2', 5: 'winds$2', 6: 'it$2'}
+#0 流浪 得 太久 太久 了 (8)
+it been too long for a while ** (7)
+#1 琴 剑 和 贞洁 都 沾满 尘沙 (10)
+jin sword and chastity are covered with dust (11)
+#2 鸦 背上 的 黄昏 愈冷愈 沉重 了 (12)
+the dusk on the crow back is getting heavier (12)
+#3 怎么 还 不 出来 烛照 我 归路 的 孤星洁 月 (16)
+why don t you come out yet candle my lone star moon (13)
+#4 一叶 血 的 遗书 自 枫树 指梢 滑 坠 (13)
+a leaf of blood note slipped from the maple tree (11)
+#5 荒原 上 造化小儿 正以 野火 燎 秋风 的 虎须 (17)
+children who are building wildfires in the autumn autumn winds ** (16)
+#6 最后 快烧 上 你 的 眉头 了 回去 回去 (14)
+finally burn your eyebrows go back to it ** (11)
+#7 小心 守护 它 你 的 影子 是 你 的 (12)
+be careful with it your shadow is thy ** (10)

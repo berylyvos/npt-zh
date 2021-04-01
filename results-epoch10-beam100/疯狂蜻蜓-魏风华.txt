@@ -1,0 +1,19 @@
+zh_rhyme: [[('们', 2), ('神', 6)]]
+en_rhyme: [(('around', 6), ('down', 2), 2, 24.800000000000004), (('out', 6), ('down', 2), 2, 25.300000000000004), (('drift', 6), ('it', 2), 2, 35.75), (('out', 6), ('it', 2), 3, 39.300000000000004)]
+rhyme_pos: {2: 'down$2', 6: 'around$2'}
+#0 比 黄昏 更 明亮 (6)
+brighter than the dusk (5)
+#1 比 复眼 更 盲目 (6)
+blinder than complex eyes (6)
+#2 撞击 空气 但 不 擦破 它们 (10)
+hit the air but don t break them down ** (9)
+#3 它们 的 爱 是 轻 的 (7)
+their love is light (4)
+#4 它们 上下 翻飞 (6)
+they fly up and down (5)
+#5 忽左忽右 (4)
+left the left of the right (6)
+#6 它们 飘忽 的 眼神 (7)
+their eyes are drifting around ** (7)
+#7 拿走 了 黄昏 (5)
+took the dusk away (5)

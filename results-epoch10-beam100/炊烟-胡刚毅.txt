@@ -1,0 +1,13 @@
+zh_rhyme: [[('星', 3), ('睛', 4)]]
+en_rhyme: [(('caught', 4), ('stars', 3), 2, 21.711111111111112), (('caught', 4), ('night', 3), 3, 35.65555555555556)]
+rhyme_pos: {3: 'stars$2', 4: 'caught$2'}
+#0 模仿 村旁 流向 赣江 流向 长江 的 小河 (15)
+a river flowing near the village to the yangtze river (15)
+#1 炊烟 流向 暮色四合 的 天穹 (11)
+the smoke flows to the dusk of the sky (9)
+#2 村落 田畴 禾穗 牛栏 的 一只 手 (12)
+a hand of the villages fields spikes and cattle (12)
+#3 缓缓 伸向 天空 揿 亮 夜幕 无数 星星 (14)
+slowly extend to the sky to the night and countless stars ** (14)
+#4 瞬间 小河 接 住 多少 抖下来 的 大 眼睛 (15)
+in an instant how many shaking eyes the river caught ** (14)

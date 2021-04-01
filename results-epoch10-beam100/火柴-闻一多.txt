@@ -1,0 +1,11 @@
+zh_rhyme: []
+en_rhyme: []
+rhyme_pos: {}
+#0 这些 都 是 君王 底 (7)
+these are the bottom of the king (8)
+#1 樱桃 艳嘴 的 小 歌童 (8)
+little cherry child with bright mouth (8)
+#2 有 的 唱 出 一颗 灿烂 的 明星 (11)
+some sing out a brilliant star (7)
+#3 唱不出 的 都 拆成 两片 枯骨 (11)
+can t sing all break into two withering bones (12)

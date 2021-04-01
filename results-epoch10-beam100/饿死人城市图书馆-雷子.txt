@@ -1,0 +1,23 @@
+zh_rhyme: [[('瑰', 2), ('对', 6)]]
+en_rhyme: [(('rose', 2), ('though', 6), 2, 23.087500000000006), (('right', 6), ('behind', 2), 2, 25.29493670886076), (('rose', 2), ('know', 6), 2, 28.187500000000004), (('late', 2), ('it', 6), 3, 28.5), (('right', 6), ('late', 2), 3, 29.542405063291138), (('that', 6), ('late', 2), 3, 42.45), (('says', 6), ('rose', 2), 3, 43.181250000000006), (('is', 6), ('rose', 2), 3, 46.931250000000006)]
+rhyme_pos: {2: 'rose$2', 6: 'though$2'}
+#0 黄昏 一群群 饥饿 的 人们 (10)
+at dusk a group of hungry people (9)
+#1 堆 挤 在 灵柩 前 (6)
+piled in front of the coffin (7)
+#2 而 迟来 的 一束 黄玫瑰 (9)
+and a beautiful yellow rose ** (8)
+#3 只 为 装饰 肩膀 前 的 绶带 (10)
+only before decorating your shoulders (11)
+#4 苍蝇 一掠 而 过 照 它 看 (9)
+the fly plunged through according to it (9)
+#5 这 面前 的 庞然大物 纯粹 是 多余 (13)
+the monster in front of this face is purely redundant (14)
+#6 也许 它 说 的 对 (6)
+maybe it right though ** (5)
+#7 书 让 我们 吃 尽 了 苦头 (9)
+the book has given us a hard time (9)
+#8 而 有 良心 的 农民 (7)
+and the farmers with conscience (7)
+#9 对 我们 却 发自内心 的 惊啧 和 赞美 (14)
+the wonder and praise of our hearts (9)

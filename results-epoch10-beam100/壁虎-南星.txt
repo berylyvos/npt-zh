@@ -1,0 +1,23 @@
+zh_rhyme: [[('么', 0), ('了', 6), ('呢', 8)], [('候', 5), ('守', 9)]]
+en_rhyme: [(('up', 5), ('peep', 9), 3, 38.64473684210526), (('peeped', 9), ('accept', 5), 3, 41.0), (('answering', 5), ('spying', 9), 3, 44.35000000000001)]
+rhyme_pos: {0: None, 6: None, 8: None, 5: 'up$3', 9: 'peep$3'}
+#0 门灯 的 光辉 是 诱人 的 么 (10)
+is the light of the door lamp attractive (10)
+#1 稳定 的 火焰 无声 的 火焰 (10)
+stable flames silent flames (6)
+#2 那支 赤红 的 壁虎 夜夜 来 (10)
+the red gecko came every night (9)
+#3 灯罩 上 微薄 的 温暖 (8)
+the mild warmth of the lampshade (5)
+#4 给 它 一些 秘密 的 冬天 的 欢喜 (12)
+give it some secret winter rejoicing (10)
+#5 到 我 可望 不可 接 的 时候 (10)
+by the time i could not pick up * (8)
+#6 它 就要 因 焦虑 而 褪色 了 (10)
+it going to fade with anxiety (10)
+#7 门灯 之 熄灭 是 愉快 的 变更 (11)
+the extinction of the doorlamp is a pleasant change (11)
+#8 不然 是 何能 制止 自己 呢 (10)
+otherwise how can you stop yourself (9)
+#9 可怜 的 孩子 已 惯于 窥守 (10)
+poor child is accustomed to peep * (8)

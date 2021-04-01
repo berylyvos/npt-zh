@@ -1,0 +1,15 @@
+zh_rhyme: [[('间', 0), ('前', 2)]]
+en_rhyme: [(('torrent', 2), ('and', 0), 2, 23.0), (('rain', 2), ('between', 0), 3, 48.54782608695652)]
+rhyme_pos: {0: 'and$2', 2: 'torrent$2'}
+#0 飘 去 飘 去 在 我 眼睫 之间 (10)
+float float between my eyes and ** (7)
+#1 小立 门外 忆忆 涛声 (8)
+outside the door memory sound (8)
+#2 黑衣人 是 云 啊 暴雨 之前 (10)
+black men are clouds before the torrent ** (9)
+#3 我 把 挂 在 窗前 的 雨景 取 下 (11)
+i took off the rain hanging in the window (11)
+#4 把 苍老 的 梧桐树 取 下 (9)
+take the old button tree off (7)
+#5 把 你 取下 (4)
+and take you off (4)

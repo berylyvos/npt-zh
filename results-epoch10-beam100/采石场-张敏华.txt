@@ -1,0 +1,13 @@
+zh_rhyme: []
+en_rhyme: []
+rhyme_pos: {}
+#0 受伤 的 人 受伤 的 采石场 (10)
+wounded people injured quarries (8)
+#1 石头 成为 石头 的 遗址 (9)
+the stone became the site of a stone (9)
+#2 落定 的 碎石 象死 鱼 的 鳞片 (11)
+falling rubble like scales of dead fish (9)
+#3 沙眼 的 风景 在 泪水 的 (9)
+the scenery of the sandy eyes in tears (11)
+#4 雨中 风化 (4)
+in the rain weathering (6)

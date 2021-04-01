@@ -1,0 +1,17 @@
+zh_rhyme: [[('气', 3), ('系', 5)]]
+en_rhyme: [(('mysterious', 5), ('class', 3), 3, 32.1)]
+rhyme_pos: {3: 'class$3', 5: 'mysterious$3'}
+#0 白色 羽毛 下落 轻轻 (8)
+the white feather fell gently (7)
+#1 宣扬 生者 的 喜悦 (7)
+preach the joy of the living (7)
+#2 一只 火柴 般削划 而 过 (9)
+a match was passing through (6)
+#3 古堡 周围 的 空气 (7)
+the atmosphere around the class * (8)
+#4 隐约 感知 自己 的 重量 (9)
+vaguely perceive your weight (6)
+#5 失去 与 纯粹 神秘 的 联系 (10)
+losing the connection to purely mysterious * (13)
+#6 石垛 开始 痛恨 上帝 的 慈悲 (11)
+the stone began to hate the mercy of god (11)

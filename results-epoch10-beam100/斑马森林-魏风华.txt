@@ -1,0 +1,21 @@
+zh_rhyme: []
+en_rhyme: []
+rhyme_pos: {}
+#0 一匹 马跑 进 森林 (7)
+a horse ran into the forest (8)
+#1 又 一匹 马跑 进 森林 (8)
+another horse ran into the forest (10)
+#2 第三匹 马跑 进 森林 (8)
+the third horse ran into the woods (8)
+#3 还会 有 更 多 的 马 (7)
+there will also be more horses (8)
+#4 跑 进 森林 (4)
+run into the forest (6)
+#5 一匹 马钻出 森林 (7)
+a horse ripped out the forest (7)
+#6 第二匹 马钻出 森林 (8)
+the second horse out of the forest (9)
+#7 最后 一匹 马钻出 森林 (9)
+the last horse out of the forest (8)
+#8 月光 照耀 它 身上 的 斑纹 (10)
+moonlight shines on the stripes of its body (10)

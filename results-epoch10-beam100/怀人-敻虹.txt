@@ -1,0 +1,23 @@
+zh_rhyme: [[('丝', 5), ('思', 7), ('池', 8)]]
+en_rhyme: [(('panorama', 8), ('sea', 7), 3, 27.666136363636365), (('city', 8), ('sea', 7), 3, 29.212073863636366), (('silver', 5), ('sea', 7), 3, 30.326136363636365), (('town', 8), ('one', 7), 3, 32.43333333333334), (('water', 7), ('city', 8), 3, 33.5859375), (('wire', 5), ('sea', 7), 3, 37.27613636363637), (('town', 8), ('alone', 7), 3, 38.31666666666666)]
+rhyme_pos: {5: None, 7: 'sea$3', 8: 'panorama$3'}
+#0 为 你 贮一海 的 (6)
+the one that stands for you (6)
+#1 思 悄静 而 透亮 (6)
+thought quiet and bright (5)
+#2 你 的 臂弯 围 一座 睡城 (9)
+your arms bent around a sleeping town (9)
+#3 我 的 梦 美丽 而 悠长 (8)
+my dreams are beautiful and long (8)
+#4 最微 的 灯 一扇 半圆 的 窗下 (11)
+the minimum light a half-circle window (8)
+#5 你 的 名字 化作 金丝 银丝 (10)
+your name turned into silver silver (9)
+#6 半世纪 将 我 围绕 (7)
+half a century surrounding me (9)
+#7 贮一海 的 思 (5)
+the thought of the sea * (5)
+#8 在 那静悄 的 城池 (7)
+in the quiet city panorama * (10)
+#9 最美 的 语音 象 最 没 的 花瓣 (11)
+the most beautiful voice is like the least petals (12)

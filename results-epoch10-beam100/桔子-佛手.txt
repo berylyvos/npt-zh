@@ -1,0 +1,19 @@
+zh_rhyme: [[('子', 0), ('里', 3), ('地', 6)]]
+en_rhyme: [(('land', 6), ('fast', 0), 2, 24.512500000000003)]
+rhyme_pos: {0: 'fast$2', 3: None, 6: 'land$2'}
+#0 一只 手 熟练 而 迅速 的 剥开 桔子 (13)
+a skilled hand peeled the orange fast ** (8)
+#1 指着 桔皮 说 ∶ 就 这 颜色 命名 为 桔色 (15)
+pointing to the orange hippie the color is named orange (15)
+#2 大多数 桔子 零乱 的 挂 在 树上 (12)
+most of the orange hanging on the trees (10)
+#3 剥开 的 桔子 整齐 的 排列 在 盘子 里 (14)
+the peeled orange was neatly arranged on the plate (12)
+#4 脖子 上 围着 餐巾 的 嘴巴 吹 着 哨子 (14)
+the mouth around the napkin was blowing the whistle (13)
+#5 交响乐 舞动着 指挥棒 的 秩序 (12)
+the symphony is moving the baton order (12)
+#6 树上 的 桔子 被 音乐 诱惑 纷纷 落地 (14)
+the orange on the tree was tempted by music to land ** (14)
+#7 一筐 一车 努力 改变 自己 的 排序 (13)
+one basket try to change his order (9)

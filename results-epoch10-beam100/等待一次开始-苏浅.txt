@@ -1,0 +1,21 @@
+zh_rhyme: [[('具', 3), ('誉', 7)], [('上', 4), ('膀', 6)]]
+en_rhyme: [(('learn', 3), ('begin', 7), 3, 39.654545454545456)]
+rhyme_pos: {3: 'learn$3', 7: 'begin$3', 4: None, 6: None}
+#0 我 是 纳税人 (5)
+i m a taxpayer (6)
+#1 有 责任 把 两个 码头 之间 的 空缺 (13)
+it is responsible to put the vacancy between the two docks (17)
+#2 用 流水 和 帆 补充 (7)
+replenish with running water and sail (10)
+#3 以及 每 一样 我 必须 学会 使用 的 工具 (15)
+and every tool that i have to learn * (10)
+#4 我 出生 在 岸上 (6)
+i was born on the shore (6)
+#5 海鸥 飞 起来 的 时候 (8)
+when the seagulls flew up (6)
+#6 我 还 在 长 翅膀 (6)
+i m still growing wings (6)
+#7 所有 将要 开始 的 荣誉 (9)
+all the honor that will begin * (8)
+#8 被 用做 羽毛 (5)
+used as a feather (5)
