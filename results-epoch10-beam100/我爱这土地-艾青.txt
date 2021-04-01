@@ -1,0 +1,23 @@
+zh_rhyme: []
+en_rhyme: []
+rhyme_pos: {}
+#0 假如 我 是 一只 鸟 (7)
+if i were a bird (5)
+#1 我 也 应该 用 嘶哑 的 喉咙 歌唱 (12)
+i should also sing with a hoarse throat (9)
+#2 这 被 暴风雨 所 打击 的 土地 (11)
+this was hit by the storm (6)
+#3 这 永远 汹涌 着 我们 的 悲愤 的 河流 (14)
+this will always surge our grieving rivers (11)
+#4 这 无 止息 地 吹 刮 着 的 激怒 的 风 (13)
+this enraged wind without interest blowing (10)
+#5 和 那 来自 林间 的 无比 温柔 的 黎明 (14)
+and the soft gentle dawn from the forest (10)
+#6 然后 我 死 了 (5)
+then i was dead (4)
+#7 连 羽毛 也 腐烂 在 土地 里面 (11)
+even the feathers rot in the land (9)
+#8 为什么 我 的 眼里 常含 泪水 (11)
+why do my eyes often contain tears (9)
+#9 因为 我 对 这 土地 爱得 深沉 (11)
+because i love this land deeply (8)

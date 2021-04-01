@@ -1,0 +1,11 @@
+zh_rhyme: []
+en_rhyme: []
+rhyme_pos: {}
+#0 远远 的 (3)
+far away from here (5)
+#1 静悄悄 的 (4)
+quietly quietly (6)
+#2 闲置 在 地平线 最 阴暗 的 一角 (12)
+idle in the darkest corner of the horizon (13)
+#3 一把 张开 的 黑 雨伞 (8)
+an open black umbrella (7)

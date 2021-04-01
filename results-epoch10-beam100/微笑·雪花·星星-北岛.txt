@@ -1,0 +1,19 @@
+zh_rhyme: [[('笑', 1), ('谣', 3)]]
+en_rhyme: [(('ballads', 3), ('and', 1), 2, 29.660000000000004), (('ballad', 3), ('and', 1), 2, 30.12222222222222), (('smiling', 1), ('song', 3), 3, 46.50000000000001)]
+rhyme_pos: {1: 'and$2', 3: 'ballads$2'}
+#0 一切都在 飞快 地 旋转 (9)
+everything is rotating quickly (9)
+#1 只有 你 静静地 微笑 (8)
+only you smile quietly and ** (8)
+#2 从 微笑 的 红玫瑰 上 (8)
+from the smiling red roses (7)
+#3 我 采下 了 冬天 的 歌谣 (9)
+i picked up the winter ballads ** (8)
+#4 蓝幽幽 的 雪花 呀 (7)
+the blue snowflakes (4)
+#5 他们 在 喳喳 地 诉说 什么 (10)
+what are they chirping about (7)
+#6 回答 我 (3)
+answer me (3)
+#7 星星 永远 是 星星 吗 (8)
+is the star always a star (7)

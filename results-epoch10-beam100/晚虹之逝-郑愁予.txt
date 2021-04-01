@@ -1,0 +1,19 @@
+zh_rhyme: [[('著', 0), ('弧', 1)]]
+en_rhyme: [(('head', 1), ('stepped', 0), 2, 29.23673469387755), (('head', 1), ('stood', 0), 3, 34.10510204081633), (('overhead', 1), ('stepped', 0), 2, 38.2), (('stood', 0), ('overhead', 1), 3, 47.55000000000001)]
+rhyme_pos: {0: 'stepped$2', 1: 'head$2'}
+#0 我 是 圆心 我立 著 (7)
+i m the center i stepped ** (7)
+#1 太阳 在 我 的 头顶 的 方位 划弧 (12)
+the sun on the overhead of my head ** (10)
+#2 我 是 海 的 圆心 我立 著 (9)
+i am the center of the sea i stand (10)
+#3 最浅 的 蓝 在 我 四周 划弧 (10)
+the shallowest blue is crossed around me (7)
+#4 我 在 计算 两个 极点 (8)
+i m calculating two poles (8)
+#5 把 一道 天然 的 七彩 弧 放在 西方 (13)
+put a natural color arc in the west (11)
+#6 但 黄昏 说 是 冷 了 (7)
+but dusk said it was cold (6)
+#7 用 灰色 的 大 翻襟 盖 上 那条 美丽 的 红 领带 (17)
+cover that beautiful red tie with a grey turn (12)

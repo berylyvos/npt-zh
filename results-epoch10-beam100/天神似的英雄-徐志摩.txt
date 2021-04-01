@@ -1,0 +1,19 @@
+zh_rhyme: [[('石', 0), ('隙', 2), ('迹', 3)], [('庸', 4), ('雄', 7)], [('容', 5), ('中', 6)]]
+en_rhyme: [(('stones', 0), ('stone', 2), 2, 17.138011695906435), (('signs', 3), ('stones', 0), 3, 20.16118421052632), (('stones', 2), ('stone', 0), 2, 20.56484848484849), (('stones', 2), ('signs', 3), 3, 22.657500000000002), (('silhouette', 2), ('mess', 3), 2, 22.950000000000003), (('marks', 3), ('rocks', 0), 2, 24.246428571428574), (('trace', 3), ('class', 2), 3, 26.575000000000003), (('messengers', 3), ('shadows', 2), 3, 28.15833333333333), (('yang', 4), ('am', 7), 2, 28.400000000000002), (('marks', 3), ('blocks', 0), 2, 28.571428571428577), (('silhouette', 2), ('sight', 3), 3, 29.325000000000003), (('rock', 0), ('marks', 3), 2, 32.121428571428574), (('fat', 4), ('am', 7), 2, 33.60769230769231), (('messages', 3), ('shadows', 2), 3, 35.71458333333333), (('mediocrity', 4), ('too', 7), 3, 36.10597826086957), (('ugliness', 0), ('class', 2), 3, 37.075), (('subtlety', 3), ('shadow', 2), 3, 37.575), (('scenes', 3), ('stones', 0), 3, 37.673684210526325), (('mess', 3), ('class', 2), 3, 37.97500000000001), (('ugliness', 0), ('trace', 3), 3, 38.7), (('stones', 2), ('scenes', 3), 3, 40.17000000000001), (('fan', 4), ('am', 7), 2, 41.2), (('sign', 3), ('stone', 2), 3, 41.28333333333333), (('boulder', 0), ('shadow', 2), 3, 42.75), (('mediocre', 4), ('too', 7), 3, 43.64464285714286), (('messy', 3), ('shadow', 2), 3, 43.724999999999994), (('sign', 3), ('stone', 0), 3, 43.92727272727274), (('ugly', 0), ('shadow', 2), 3, 48.825), (('valley', 4), ('too', 7), 3, 52.0125), (('casualty', 5), ('me', 6), 3, 55.9)]
+rhyme_pos: {0: 'stones$2', 2: 'stone$2', 3: None, 4: 'yang$2', 7: 'am$2', 5: 'casualty$3', 6: 'me$3'}
+#0 这石 是 一堆 粗丑 的 顽石 (10)
+this stone is a bunch of ugly stones ** (9)
+#1 这 百合 是 一 从 明媚 的 秀色 (11)
+this lily is a bright show (7)
+#2 但 当 月光 将 花影 描上 石隙 (11)
+but when the moonlight describes the shadow of the stone ** (13)
+#3 这 粗 丑 的 顽石 也 化生 了 媚迹 (12)
+the ugly stone also accumulates signs (11)
+#4 我 是 一团 臃肿 的 凡庸 (9)
+i m a bloated van yang ** (7)
+#5 她 的 是 人间 无比 的 仙容 (10)
+she is an incomparable casualty * (12)
+#6 但 当 恋爱 将 她 偎入 我 的 怀中 (12)
+but when the relationship brought her into me * (12)
+#7 就 我 也 变成 了 天神 似的 英雄 (12)
+the same hero i am ** (6)

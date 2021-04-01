@@ -1,0 +1,23 @@
+zh_rhyme: [[('命', 0), ('经', 7)]]
+en_rhyme: [(('been', 7), ('it', 0), 2, 23.07272727272727), (('it', 0), ('is', 7), 2, 24.71818181818181), (('been', 7), ('this', 0), 2, 26.272727272727273), (('this', 0), ('is', 7), 2, 27.918181818181814), (('already', 7), ('me', 0), 3, 34.115625), (('drop', 7), ('on', 0), 2, 35.82142857142857), (('alive', 0), ('have', 7), 3, 37.22500000000001), (('own', 0), ('been', 7), 3, 40.60909090909091), (('been', 7), ('on', 0), 3, 40.866233766233776), (('alien', 0), ('been', 7), 3, 42.709090909090904), (('me', 0), ('now', 7), 3, 53.77499999999999)]
+rhyme_pos: {0: 'it$2', 7: 'been$2'}
+#0 我 和 诗 一生一世 相依为命 (11)
+i and poetry all my life depend on it ** (12)
+#1 从不 懊悔 更 没有 一句 怨言 (11)
+never regret let alone complain (9)
+#2 六十年 来 在 遥远 而 虚幻 的 (11)
+for years in the distant and illusory (11)
+#3 美梦 里 甘心 承受 现世 的 苦难 (12)
+in the dream willingness to bear the suffering of the world (15)
+#4 经历 了 一次 苦过 一次 的 厄运 终于 (14)
+after a suffering bad luck finally (11)
+#5 在 苦 根里 咂 出 了 一点 未来 的 甜蜜 (14)
+a little future sweet in the bitter root (11)
+#6 未来 的 甜蜜 本是 为 下 一世 人生 酿 的 (15)
+the sweetness of the future is for the next life (12)
+#7 尽管 眼下 还 尝 不到 一滴 却 已经 (13)
+even though it doesn t taste a drop it has already been ** (14)
+#8 神奇 地甜 透 了 我 已逝 和 未逝 的 人生 (15)
+magically sweet through my dead and undead life (10)
+#9 写诗 还 不 就是 为了 这点 尝 不到 的 甜蜜 吗 (17)
+writing poetry isn t that the sweetness you can t taste (14)

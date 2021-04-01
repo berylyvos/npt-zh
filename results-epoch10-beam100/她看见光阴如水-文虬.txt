@@ -1,0 +1,23 @@
+zh_rhyme: []
+en_rhyme: []
+rhyme_pos: {}
+#0 她 看见 光阴 如水 (7)
+she saw the time like water (7)
+#1 听见 光阴 如水 (6)
+hear the time like water (6)
+#2 从 高高的 烟囱 上 (7)
+from the high chimney (5)
+#3 鸽子 看见 的 也 是 光阴 如水 (11)
+what pigeons see is also time like water (11)
+#4 这 一天 她 走近 树林 (8)
+this day she approached the woods (7)
+#5 忽然 想到 女妖 的 衰老 (9)
+suddenly the aging of the banshee (10)
+#6 便 取出 一支 细小 的 蜡烛 (10)
+he took out a tiny candle (8)
+#7 照亮 微弱 的 心思 (7)
+illuminate the faint mind (7)
+#8 在 那里 数着 树叶 (7)
+where the leaves are counted (6)
+#9 （ 1995 ） (6)
+i don t know what it looks like (8)

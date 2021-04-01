@@ -1,0 +1,19 @@
+zh_rhyme: [[('了', 0), ('歌', 1)]]
+en_rhyme: [(('come', 0), ('sung', 1), 2, 21.38823529411765), (('comes', 0), ('sung', 1), 2, 21.455555555555556), (('up', 0), ('sung', 1), 2, 21.6), (('come', 0), ('one', 1), 2, 27.38823529411765), (('one', 1), ('comes', 0), 2, 27.455555555555556), (('one', 1), ('up', 0), 2, 27.6), (('arriving', 0), ('sung', 1), 3, 31.650000000000002), (('raven', 0), ('one', 1), 3, 38.8875), (('one', 1), ('in', 0), 3, 52.800000000000004)]
+rhyme_pos: {0: 'come$2', 1: 'sung$2'}
+#0 乌鸦 来 了 (4)
+the crow has come ** (4)
+#1 唱 黑色 之歌 (5)
+the song of black sung ** (5)
+#2 投 我 的 悲哀 在 地上 (8)
+throw my sorrow on the ground (7)
+#3 碎 如 落叶 (4)
+break like fallen leaves (5)
+#4 片片 落叶 上 (5)
+pieces of fallen leaves (6)
+#5 驮 着 窒息 的 梦 (6)
+carrying a suffocating dream (9)
+#6 疲惫 烦重 的 心 (6)
+tired and fatigued heart (6)
+#7 乃 乘鸦 背以 远 飏 (7)
+it is the raven back to the distance (10)

@@ -1,0 +1,21 @@
+zh_rhyme: []
+en_rhyme: []
+rhyme_pos: {}
+#0 我 在 这间 屋子 有 好多年 了 (11)
+i ve been in this room for years (8)
+#1 不管 我朝 哪个 方向 能 看到 的 都 是 墙 (15)
+no matter which direction i m seeing is a wall (14)
+#2 墙 越来越 厚 孤独 越堆 越 高 (11)
+the walls are thicker and thicker and the higher the loneliness is (17)
+#3 我 知道 它们 都 是 为了 保护 我 (12)
+i know they re all trying to protect me (11)
+#4 因为 我 不能 胜任 一个 大 环境 (12)
+because i can t do a big environment (12)
+#5 不能 在 四面 透风 的 日子 里 静默 等候 (15)
+no silence in the days of ventilation waiting (13)
+#6 每天 夜深 我 都 要 打开 窗户 (11)
+every night i open the window (10)
+#7 说 我 在 这里 我 在 这里 (9)
+said i m here i m here (7)
+#8 说完 这句 话 我 才 可 安然 入眠 (12)
+finishing this sentence i can sleep safely (11)

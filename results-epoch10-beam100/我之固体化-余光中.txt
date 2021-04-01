@@ -1,0 +1,23 @@
+zh_rhyme: [[('里', 0), ('梯', 6)], [('冰', 1), ('硬', 8)], [('冷', 2), ('腾', 5)], [('远', 7), ('原', 9)]]
+en_rhyme: [(('automatically', 9), ('me', 7), 3, 20.097656249999996), (('automatically', 9), ('away', 7), 3, 20.125500000000002), (('say', 9), ('away', 7), 1, 23.0352), (('wine', 0), ('slides', 6), 2, 23.358333333333334), (('slide', 6), ('wine', 0), 2, 24.727906976744187), (('transparent', 8), ('rejection', 1), 2, 25.26923076923077), (('easily', 5), ('frequently', 2), 2, 26.200000000000003), (('me', 7), ('here', 9), 2, 33.0734375), (('on', 9), ('apart', 7), 2, 37.300000000000004), (('ladders', 6), ('booze', 0), 3, 40.050000000000004), (('mean', 9), ('me', 7), 2, 41.040104166666666), (('far', 7), ('on', 9), 2, 42.975), (('takes', 9), ('away', 7), 2, 44.292), (('want', 9), ('apart', 7), 2, 45.43333333333334), (('restore', 9), ('far', 7), 3, 45.49431818181818), (('rainbows', 6), ('booze', 0), 3, 47.925000000000004), (('far', 7), ('want', 9), 2, 51.108333333333334), (('china', 7), ('do', 9), 3, 55.2), (('say', 9), ('me', 7), 3, 57.560156250000006), (('you', 9), ('me', 7), 3, 58.77890624999999), (('you', 9), ('away', 7), 3, 58.80675000000001), (('me', 7), ('do', 9), 3, 59.735156249999996), (('away', 7), ('do', 9), 3, 59.763000000000005), (('me', 9), ('away', 7), 3, 61.398), (('far', 7), ('here', 9), 3, 61.91250000000001), (('far', 7), ('there', 9), 3, 67.1625), (('know', 9), ('me', 7), 3, 68.13515625000001), (('know', 9), ('away', 7), 3, 68.16300000000001), (('so', 9), ('me', 7), 3, 68.61015625), (('so', 9), ('away', 7), 3, 68.638)]
+rhyme_pos: {0: 'wine$2', 6: 'slides$2', 1: 'rejection$2', 8: 'transparent$2', 2: 'frequently$2', 5: 'easily$2', 7: 'me$3', 9: 'automatically$3'}
+#0 在 此地 在 国际 的 鸡尾酒 里 (11)
+here in the international cocktail wine ** (11)
+#1 我 仍 是 一块 拒绝 溶化 的 冰 (11)
+i m still a piece of rejection ** (9)
+#2 常 保持 零下 的 冷 (7)
+keep cold below zero frequently ** (9)
+#3 和 固体 的 硬度 (6)
+and the hardness of solids (7)
+#4 我 本来 也 是 很 液体 的 (9)
+i was also very liquid (8)
+#5 也 很 爱 流动 很 容易 沸腾 (10)
+and love flowing boiling easily ** (9)
+#6 很 爱玩 虹 的 滑梯 (7)
+love to play with rainbow slides ** (7)
+#7 但 中国 的 太阳 距 我 太远 (10)
+but the sun is too far away from me * (10)
+#8 我 结晶 了 透明 且 硬 (8)
+i have crystallized transparent ** (8)
+#9 且 无法 自动 还原 (7)
+and cannot be reduced automatically * (11)

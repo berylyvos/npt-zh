@@ -1,0 +1,15 @@
+zh_rhyme: []
+en_rhyme: []
+rhyme_pos: {}
+#0 下起 了 雨 狂风 过后 (8)
+after the rain wind passed down (7)
+#1 踩 稀泥 摘 桂花 淋 大雨 (9)
+stepping on mud picking guinea heavy rain (11)
+#2 它们 都 是 那么 的 凉 (8)
+they re all so cold (5)
+#3 小 乌鸦 白 鸽子 (6)
+little crows white pigeons (6)
+#4 一个 蹲 房顶 一个 蹲 树桠 (10)
+one squatted on the roof one squatted in trees (7)
+#5 突然 降临 黑夜 (6)
+suddenly the night came down (7)

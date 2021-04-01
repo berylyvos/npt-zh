@@ -1,0 +1,23 @@
+zh_rhyme: [[('了', 1), ('乐', 7), ('的', 8)], [('岛', 2), ('刀', 5)]]
+en_rhyme: [(('all', 8), ('off', 1), 2, 24.244444444444447), (('fun', 7), ('up', 1), 2, 24.800000000000004), (('winds', 8), ('it', 1), 2, 25.489198606271778), (('waving', 1), ('everything', 8), 3, 33.71052631578947), (('down', 1), ('fun', 7), 3, 33.900000000000006), (('hands', 1), ('headwinds', 8), 3, 34.875), (('hand', 1), ('wind', 8), 3, 37.22029411764706), (('winds', 8), ('hands', 1), 3, 45.51951219512195)]
+rhyme_pos: {1: 'off$2', 7: None, 8: 'all$2', 2: None, 5: None}
+#0 长春藤 一样 热带 的 情丝 (10)
+ivy like a tropical emotional silk (12)
+#1 挥 一 挥手 即断 了 (7)
+he waved his hand and broke off ** (7)
+#2 挥沉 了 处子 般的 款 摆 著 绿 的 岛 (13)
+sinking the virgin money of green island (11)
+#3 挥沉 了 半个 夜 的 星星 (9)
+sinking half the night stars (6)
+#4 挥出 一程 风雨 来 (7)
+a ride of wind and rain (6)
+#5 一把 古老 的 水手 刀 (8)
+an ancient sailor knife (6)
+#6 被 离别 磨亮 (5)
+be separated from shining (8)
+#7 被 用于 寂寞 被 用于 欢乐 (10)
+used for loneliness and used in joy (9)
+#8 被 用于 航向 一切 逆风 的 (10)
+being used to direct the wind against all ** (11)
+#9 桅蓬 与 绳索 (5)
+the mast and the rope (5)

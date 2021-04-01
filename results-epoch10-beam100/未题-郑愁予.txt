@@ -1,0 +1,21 @@
+zh_rhyme: [[('河', 1), ('客', 5), ('设', 6), ('的', 7)], [('室', 3), ('底', 4)]]
+en_rhyme: [(('rooms', 3), ('do', 4), 2, 11.15), (('heart', 3), ('on', 4), 2, 17.65), (('rooms', 3), ('you', 4), 2, 17.76666666666667), (('one', 6), ('dust', 5), 2, 20.509999999999998), (('tang', 6), ('hand', 7), 2, 22.460759493670885), (('window', 3), ('do', 4), 3, 23.732530120481933), (('heart', 3), ('top', 4), 2, 24.75), (('hands', 7), ('tang', 6), 2, 26.85), (('tang', 6), ('have', 7), 2, 28.25), (('window', 3), ('day', 4), 3, 31.78253012048193), (('window', 3), ('you', 4), 3, 33.65753012048194), (('made', 7), ('place', 6), 2, 33.79642857142857), (('yours', 7), ('years', 5), 3, 36.2), (('window', 3), ('me', 4), 3, 43.83253012048192), (('window', 3), ('know', 4), 3, 44.88253012048194)]
+rhyme_pos: {1: None, 5: 'dust$2', 6: 'one$2', 7: None, 3: 'rooms$2', 4: 'do$2'}
+#0 无声 地 汇流 着 在 一一 二月 的 雨天 (14)
+silently on the rainy day of february (13)
+#1 是 我们 臂 上 的 静脉 的 小青河 (12)
+it the little green river on our arms (11)
+#2 一 环环 的 漩涡 朵朵 地 跳 出来 (12)
+the whirlpool vortex jumps out of the trouble (11)
+#3 跳出 你 开着 南窗 的 心 的 四 房室 (13)
+jump out of your south window heart four rooms ** (10)
+#4 而 我底 (3)
+and i don t know what to do ** (8)
+#5 我 正忙 於 打发 灰尘 子 常年 的 座客 (14)
+i am busy sending a guest all the year of the dust ** (14)
+#6 以坦敞 的 每个 角落 一一 安置 你 的 摆设 (16)
+every corner of tang place your installation one ** (14)
+#7 啊 那小巧 的 摆设 是 你 手制 的 (12)
+ah that little arrangement is your hand (10)
+#8 安闲地 搁 在 那 两 宅心 舍 的 那 八间 房室 (16)
+leisurely the two heart rooms the eight rooms (10)

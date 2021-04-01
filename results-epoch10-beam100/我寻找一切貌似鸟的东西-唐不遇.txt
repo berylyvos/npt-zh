@@ -1,0 +1,19 @@
+zh_rhyme: []
+en_rhyme: []
+rhyme_pos: {}
+#0 我 寻找 着 一切 貌似 鸟 的 东西 ∶ (13)
+i was looking for everything like a bird (11)
+#1 小小的 脑袋 尖 而 弯 的 长嘴 (11)
+the little head the sharp and bent long mouth (10)
+#2 一双 带有 利爪 的 细脚 优美 的 双翅 (14)
+a pair of fine claws beautiful wings (9)
+#3 一切 貌似 鸟 的 东西 齐声 哀鸣 (12)
+everything that looks like a bird is wailing (11)
+#4 我 寻找 着 一切 貌似 人 的 东西 ∶ (13)
+i m looking for everything that seems like (11)
+#5 站 着 走来走去 手中 握 着 什么 (12)
+standing around holding something in his hand (11)
+#6 窃窃私语 嘀咕 着 森林 听不懂 的 语言 (15)
+whispering mutting the language that forests do not understand (14)
+#7 一切 貌似 人 的 东西 步上 高楼 (12)
+everything that seems to be on the tall building (12)

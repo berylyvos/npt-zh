@@ -1,0 +1,19 @@
+zh_rhyme: [[('倚', 0), ('指', 2)], [('慰', 1), ('对', 3)], [('白', 5), ('拍', 7)]]
+en_rhyme: [(('indication', 2), ('reservation', 0), 1, 8.04), (('correct', 3), ('well', 1), 2, 12.280000000000001), (('reservations', 0), ('indication', 2), 2, 14.8), (('too', 1), ('you', 3), 1, 17.0625), (('white', 5), ('shot', 7), 3, 19.31088607594937), (('gold', 2), ('enclosed', 0), 2, 20.793750000000003), (('indication', 2), ('resolution', 0), 3, 21.6), (('beat', 7), ('white', 5), 3, 24.065886075949372), (('correct', 3), ('dressed', 1), 2, 25.380000000000003), (('shoot', 7), ('white', 5), 3, 25.67088607594937), (('it', 0), ('kim', 2), 2, 28.050000000000004), (('that', 7), ('white', 5), 3, 29.42088607594937), (('indication', 2), ('on', 0), 3, 31.875), (('finger', 2), ('you', 0), 3, 34.69540229885058), (('white', 5), ('foot', 7), 3, 39.1494575045208), (('indication', 2), ('in', 0), 3, 45.45), (('mirror', 1), ('you', 3), 3, 46.650000000000006)]
+rhyme_pos: {0: 'reservation$1', 2: 'indication$1', 1: 'well$2', 3: 'correct$2', 5: 'white$3', 7: 'shot$3'}
+#0 窗子 在 等待 嵌 你 的 凭 倚 (10)
+the window is waiting for your reservation *** (12)
+#1 穿衣镜 也 怅望 何以 安慰 (10)
+why comfort wearing mirrors as well ** (9)
+#2 一室 的 沉默 痴念 着 点金 指 (11)
+the silence of the room read the gold indication *** (13)
+#3 门上 一 声响 你 来得 正对 (10)
+a noise on the door you re correct ** (9)
+#4 杨柳枝 招 人 春 水面 笑 人 (10)
+willow branches recruit people spring water smiles (12)
+#5 鸢飞 鱼跃 青山 青 白云 白 (10)
+irish flying fish leap qingshan blue white cloud white * (10)
+#6 衣襟 上 不 短少 半条 皱纹 (10)
+half a line of wrinkles on the skirts (9)
+#7 这里 就 差 你 右脚 ─ 这一 拍 (11)
+this is your right foot this shot * (7)
